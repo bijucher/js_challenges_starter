@@ -1,6 +1,6 @@
 (function(){
 
-    let tallMountainArray = [10056,10330,5000,1500];
+    let tallMountainArray = [56,33,8000,500,150,3000,4000,8098];
 
 
 
